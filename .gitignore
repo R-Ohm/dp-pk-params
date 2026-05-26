@@ -1,0 +1,26 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+venv/
+.venv/
+env/
+
+# Bulk data — not committed
+data/raw/
+data/processed/
+*.parquet
+
+# Run outputs
+runs/
+*.log
+
+.ipynb_checkpoints/
+.vscode/
+.idea/
+.DS_Store
+
+# NOTE: params/ is intentionally NOT ignored — the parameter files are small
+# and are inputs/outputs worth version-controlling.
