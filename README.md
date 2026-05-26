@@ -23,3 +23,6 @@ pip install -e ".[dev]"
 ## Status
 Early. Phases 1-3 (data, feature counting, energy function) proceed now; the
 estimation method is blocked on a supervisor question (see CLAUDE.md).
+
+## resume
+claude --resume 3b4d4b7b-f52d-4925-94d6-a5071697621c
