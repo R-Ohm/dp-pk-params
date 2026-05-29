@@ -1,0 +1,312 @@
+> SSTRAND_ID=Bt_PrP; TYPE=mRNA; EXT_SOURCE=van Batenburg et al 2001;
+GCCCCAUGGAGGUGGCUGGGGCCAGCCUCAUGGAGGUGGCUGGGG
+...[[[[[[............((((((]]]]]]....))))))..
+
+> SSTRAND_ID=BWYV; TYPE=viral ribosomal RNA frame-shifting signals; EXT_SOURCE=Giedroc et al 2000;
+GGCGCGGCACCGUCCGCGGAACAAACGG
+..(((((..[[[[)))))......]]]]
+
+> SSTRAND_ID=Ec_PK1; TYPE=tmRNA; EXT_SOURCE=van Batenburg et al 2001;
+CGAGGGGCGGUUGGCCUCGUAAAAAGCCGC
+[[[[[.((((((..]]]]].....))))))
+
+> SSTRAND_ID=Ec_PK4; TYPE=tmRNA; EXT_SOURCE=van Batenburg et al 2001;
+GUUUGUUAGUGGCGUGUCCGUCCGCAGCUGGCAAGCGAAUGUAAAGACUGAC
+((((((((((.(((.[[[.[[[))).)))))))))).........]]].]]]
+
+> SSTRAND_ID=EC_S15; TYPE=mRNA; EXT_SOURCE=van Batenburg et al 2001;
+GGGAUCGCUGAAUUAGAGAUCGGCGUCCUUUCAUUCUAUAUACUUUGGAGUUUUAAAAUGUCUCUAA
+((((.((((((.[[[[[[[))))))))))...............................]]]]]]]
+
+> SSTRAND_ID=HDV; TYPE=hepatitis delta virus ribozyme; EXT_SOURCE=Isambert and Siggia 2000;
+ggccggcatggtcccagcctcctcgctggcgccggctgggcaacauuccgaggggaccguccccucgguaauggcgaaugggaccca
+[[[[[[[..((((((((((........)))]]]]]]]......(((((((((((((...))))))))).)))).....)))))))..
+
+> SSTRAND_ID=HDV_anti; TYPE=anti-genomic HDV; EXT_SOURCE=Ferre-D'Amareand et al 1998;
+GGGUCGGCAUGGCAUCUCCACCUCCUCGCGGUCCGACCUGGGCAUCCGAAGGAGGACGCACGUCCACUCGGAUGGCUAAGGGAGAGCCACU
+.((((((........[[[[(((.......)))))))))....(((((((....((((....))))..)))))))......]]]].......
+
+> SSTRAND_ID=HIVRT32; TYPE=HIV-1-RT ligand RNA; EXT_SOURCE=Turek et al 1992;
+UCAAGUAUUCCGAAGCUCAACGGGAAAAUGAGCUA
+.......[[[[[.((((((.]]]]]...)))))).
+
+> SSTRAND_ID=HIVRT322; TYPE=HIV-1-RT ligand RNA; EXT_SOURCE=Turek et al 1992;
+UCAAGUAUUCCGAAGGGUAACGGGAAAAUGCCCUA
+.......[[[[[.((((((.]]]]]...)))))).
+
+> SSTRAND_ID=HIVRT33; TYPE=HIV-1-RT ligand RNA; EXT_SOURCE=Turek et al 1992;
+UCAAGUAUUCCGAAGCUUGACGGGAAAAUAAGCUA
+.......[[[[[.((((((.]]]]]...)))))).
+
+> SSTRAND_ID=Hs_Prp; TYPE=mRNA; EXT_SOURCE=van Batenburg et al 2001;
+GCCUCAUGGUGGUGGCUGGGGGCAGCCUCAUGGUGGUGGCUGGGG
+...((((((.............[[[[[))))))....]]]]]...
+
+> SSTRAND_ID=LP_PK1; TYPE=tmRNA; EXT_SOURCE=van Batenburg et al 2001;
+CGAGAAGGAGAUCUCUCGUAAAUAAGACUC
+[[[[[..(((.((]]]]].......)))))
+
+> SSTRAND_ID=minimalIBV; TYPE=viral ribosomal RNA frame-shifting signals; EXT_SOURCE=Giedroc et al 2000;
+GGGGUAUCAGUCAGGCUCGGCUGGUACCCCUUGCAAAGCGAGCCU
+(((((((((((..[[[[[[)))))))))))........]]]]]].
+
+> SSTRAND_ID=MMTV; TYPE=viral ribosomal RNA frame-shifting signals; EXT_SOURCE=Giedroc et al 2000;
+GGGGCAGUCCCCUAGCCCCACUCAAAAGGGGGAU
+[[[[[..((((((.]]]]]........)))))).
+
+> SSTRAND_ID=MMTV_vpk; TYPE=viral ribosomal RNA frame-shifting signals; EXT_SOURCE=Giedroc et al 2000;
+GGCGCAGUGGGUCAGCGCCACUCAAAAGGCCCAU
+[[[[[..((((((.]]]]]........)))))).
+
+> SSTRAND_ID=pKA_A; TYPE=viral ribosomal RNA frame-shifting signals; EXT_SOURCE=Giedroc et al 2000;
+GGCCGCCAGGCUCCAGCGGCCUUGCAAAAGGAGCCU
+[[[[[[..((((((.]]]]]]........)))))).
+
+> SSTRAND_ID=satRPV; TYPE=ribozyme; EXT_SOURCE=van Batenburg et al 2001;
+ACAGAGCGCGUACUGUCUGACGACGUAUCCGCGCGGACUAGAAGGCUGGUGCCUCGUCCAACAAAUAGAUACA
+((((.[[[[[..))))........(((((]]]]]((((....((((....)))).))))........))))).
+
+> SSTRAND_ID=SRV_1; TYPE=viral ribosomal RNA frame-shifting signals; EXT_SOURCE=Giedroc et al 2000;
+GGGGCCAGCCCCAGGCCCCGAAACAAGCUUAUGGGGCA
+((((((.[[[[[.)))))).............]]]]].
+
+> SSTRAND_ID=T2_gene32; TYPE=viral ribosomal RNA frame-shifting signals; EXT_SOURCE=Giedroc et al 2000;
+CUGACCAGCUAUGAGGUCAUACAUCGUCAUAGC
+.[[[[[.(((((((]]]]].......)))))))
+
+> SSTRAND_ID=T4_gene32; TYPE=mRNA; EXT_SOURCE=van Batenburg et al 2001;
+UGCCAGCUAUGAGGUAAAGUGUCAUAGC
+[[[[.(((((((]]]].....)))))))
+
+> SSTRAND_ID=TMV.L; TYPE=viral RNA; EXT_SOURCE=van Belkum et al 1985;
+AUAAUAAAUAACGGAUUGUGUCCGUAAUCACACGUGGUGCGUACGAUAACGCAUAGUGUUUUUCCCUCCACUUAAAUCGAAGGG
+............[[[.((((]]].....))))[[[.((((((]]]...))))))[[[[.....(((((]]]]......).))))
+
+> SSTRAND_ID=Tt_LSU_P3P7; TYPE=ribozyme; EXT_SOURCE=van Batenburg et al 2001;
+AGACCGUCAAACACAGACUAAAUGUCGGUCGGGGAAGAUGUAUUCUUCUCAUAAGAUAUAGUCGG
+.(((((.((....[.[[[[[..)).))))).(((((((.....)))))))........]]]]]].
+
+> SSTRAND_ID=TYMV; TYPE=viral RNA; EXT_SOURCE=Deiman et al 1997;
+UUAGCUCGCCAGUUAGCGAGGUCUGUCCCCACACGACAGAUAAUCGGGUGCAACUCCCGCCCCUCUUCCGAGGGUCAUCGGAACCA
+....(((((......)))))(((((((.......)))))))...((((.......))))[[[...((((((]]]...))))))...
+
+> AKV-MuLV
+GGGUCAGGAGCCCCCCCCUGAACCCAGGAUAACCCUCACUGUCGGGGGGC
+((((((((.[[[[[[[)))).))))..................]]]]]]]
+
+> BaEV
+GGGCUCUGGAGCCCCCCCCGAGCCCCGGCUAACUCUAUCUGUAGGGGGGC
+((((((.((.[[[[[[[))))))))..................]]]]]]]
+
+> BLV
+GGGGGGACUUAGCGCCCCCCAAACCGU
+((((((.....[[[))))))....]]]
+
+> Bp_PK2
+CCGCUGCACUGAUCUGUCCUUGGGUCAGGCGGGGGAAGGCAACUUCCCAGGGGGCAACCCCGAACCGCAGCAGCGACAUUCACAAGGAAU
+.((((((..(((....[[[[[[..))).((((((((((....)))))).((((....))))...)))).)))))).......]]]]]]..
+
+> BVDV_IRES
+GGGUAGCAACAGUGGUGAACAGCCUGAUAGGGUGCUGCAGAGGCCCACUGUAUUGCUACUAAAAAUCUCUGCU
+.((((((((((((((......((((....))))...[[[[[[[.)))))))..))))))).....]]]]]]].
+
+> BYDV-NY-RPV
+GGCGGCGGCGUCCGCCGUAACAAACGC
+(((((..[[[[))))).......]]]]
+
+> Cas-Br-E-MuLv
+GGGUCAGGAGCCCCCCCCUGAACCCAGGAUAACCCUCAAAGUCGGGGGGC
+((((((((.[[[[[[[)))).))))..................]]]]]]]
+
+> CoxB3
+ACCCUACUGUGCUAACCGAACCAGAUAACGGUACAGUAGGGGUAAAUUCUCCGCAUUCGGUGCGGAAAAAAAA
+.((((((((((((.[[[[[[.........)))))))))))).....((.(((((.]]]]]]))))).))....
+
+> CSFV_IRES
+GACUAGCCGUAGUGGCGAACGACCUGAUAGGGUGCUGCAGAGGCCCACUAUUAGGCUAGUAUAAAAAUCUCUGCUG
+.((((((((((((((......((((....))))...[[[[[[[.)))))))..))))))).......]]]]]]]..
+
+> EIAV
+GGGGCUCAAGGGAGGCCCCAGAAACAAACUUUCCC
+((((((...[[[[))))))............]]]]
+
+> FeLV
+GGGCCAGGACCCCCCCCCCUGAGCCCAGGAUAACCUUAAGAAUAGGGGGG
+((((((((...[[[[[[)))).))))..................]]]]]]
+
+> FIV
+GGGGCGAGCUGCAGCCCCAGUGAAUCAAAUGCAGC
+[[[[[..((((((]]]]]...........))))))
+
+> HCV_229E
+CGGGGCUCUAGUGCCGCUCGACUAGAGCCCUGUAACAGUUAUGGACCACGAGCAGUCCAUG
+((((((((((((...[[[[[)))))))))))).......(((((((..]]]]].)))))))
+
+> HCV_Ires
+CCUCCCGGGAGAACUGCCUGAUAGGGUGCUUGCGAGUGCCCCGGGAGGUCUCGUAG
+(((((((((......(((......)))((.[[[[[[.))))))))))).]]]]]].
+
+> HDV-It_g
+UGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCCCUCGGUAAUGGCGAAUGGGACCCA
+.(((((((..[[[[[[[(((.[[.....))))))))))]]....(((((((((((((...))))))))).)))).....]]]]]]]..
+
+> HIV-1-RT-1-1
+ucaagAAUUCCGUUUUCAGUCGGGAAAAACUGAACAa
+.......[[[[[..((((((]]]]]...))))))...
+
+> HIV-1-RT-1-3a
+gAAUAUCUUCCGAAGCCGAACGGGAAAACCGGCaucu
+.......(((((..[[[[..)))))....]]]]....
+
+> HIV-1-RT-1-6
+gAAGAAGAUUACCCAAGCGCAGGGGAGAAGCGCaucu
+...........[[[..((((.]]].....))))....
+
+> HIV-1-RT-1-7
+agGAAUCGACCCAAGCCAAAGGGGAUAAUGCGGCauc
+.........[[[..(((...]]]........)))...
+
+> HIV-1-RT-1-8
+ucaagGAUUAACCGACGCCAACGGGAGAAUGGCAGGGau
+...........[[[..((((.]]].....))))......
+
+> HIV-1-RT-1-9b
+gAGAGUAUCAUCCGUGCCGGCGGGAUAUCGGCGaucu
+..........[[[[((((((]]]]...))))))....
+
+> HIV-1-RT-2-10
+agUAAAUGAGUCCGUAGGAGGCGGGAUAUCUCCaAcu
+..........[[[[..(((((]]]]...)))))....
+
+> HIV-1-RT-2-11
+gUCAUAUUACCGUUACUCCUCGGGAUAAAGGAGaucu
+.........[[[...(((((]]].....)))))....
+
+> HIV-1-RT-2-12
+ucaagAAUAAUCCGACUCGCGGGAUAACGAGAAGaGc
+..........[[[[.((((]]]]....))))......
+
+> HIV-1-RT-2-1b
+caagAAUAUAUCCGAACUCGACGGGAUAACGAGAAGaGc
+..........[[[[..((((.]]]]....))))......
+
+> HIV-1-RT-2-2b
+gacaaucaagUACCUAGGUGAUAAAAGGGAGAACACGUGUGa
+............[[[..(((.....]]].....)))......
+
+> HIV-1-RT-2-3a
+gUUAAACAUAAUCCGUGAUCUUUCACACGGGAGaucuaugaaaga
+...........[[[[[[.(((((((]]]]]].......)))))))
+
+> HIV-1-RT-2-4a
+agUAGAUAUCCGAAGCUCAACGGGAUAAUGAGCaucu
+........[[[[..(((((.]]]]....)))))....
+
+> HIV-1-RT-2-5a
+ucaagAUAGUAUCCGUUCUUGAUCAUCGGGACAAAUGaucu
+...........[[[[.....((((((]]]]....)))))).
+
+> HIV-1-RT-2-6b
+agUGAAACUUAACCGUUAUCAUAGAUCGGGACAAaucuauga
+............[[[...((((((((]]].....))))))))
+
+> HIV-1-RT-2-7a
+agAUAUGAUCCGUAAGAGGACGGGAUAAACCUCAac
+........[[[[...((((.]]]].....))))...
+
+> HIV-1-RT-2-9
+ucaagGUUUCCGAAAGAAAUCGGGAAAACUGucu
+.......(((((..[[[...)))))......]]]
+
+> Hs_SRP_pkn
+GCCGGGCGCGGUGGCGCGUGCCUGUAGUCCCAGCUACUCGGGAGGCU
+(((.((((((.[[[[.)))))).....((((.]]]]...))))))).
+
+> MMTVgag-pro
+GGGGCAGUCCCCUAGCCCCGCUCAAAAGGGGGAU
+[[[[[.(((((((.]]]]]........)))))))
+
+> Ni_VS
+GGGCGUCGUCGCCCCGAGUCGUAGCAGUUGACUACUGUUAUG
+((((...[[[)))).....(((((((((.]]].)))))))))
+
+> PEMV
+UUCCGGUCGACUCCGGAGAAACAAAGUC
+((((((..[[[[))))))......]]]]
+
+> PLRV-S
+GCGGCACCGUCCGCCAAAACAAACGG
+[[[[..((((]]]]........))))
+
+> PRRSV-16244B
+GCCGCCAGCGGCUUGACCCGCUGUGGUCGCGGCGGCUUGGUUGUUACUGAGACAGCGG
+((((((.((((((....[[[[[[[))))))))))))...............]]]]]]]
+
+> PRRSV-LV
+GCCGCCAGCGGCUUGACCCGCUGUGGCCGCGGCGGCCUAGUUGUGACUGAAACGGCGG
+((((((.((((((....[[[[[[[))))))))))))...............]]]]]]]
+
+> SARS-CoV
+UGCGGUGUAAGUGCAGCCCGUCUUACACCGUGCGGCACAGGCACUAGUACUGAUGUCGUCUACAGGGCU
+(((((((((((...[[[[[[[)))))))))))((((((((.........))).)))))...]].]]]]]
+
+> SNV
+GGGUUCUCCCGCCCUCCGUGAACCCAGGCUAAAAGUUAAGGUAGGGGGGC
+[[[[[[.[..(((((((].]]]]]]..................)))))))
+
+> TMV-L
+GGGAUUCGAAUUCCCCCGGAACCCCCGGUUGGGGCCCA
+...............[[[...((((]]]..))))....
+
+> BChV
+GCGGCGCCGACCGCCAAACAACCGGC
+[[[[.((((.]]]]........))))
+
+> CABYV
+GGCGGCGGCGACCGCCGAAACAACCGC
+(((((..[[[.)))))........]]]
+
+> GaLV
+GGGUUCGGACCCCCUCCCCGAACCUAGGGUAACACUGACUGUGGAGGGG
+((((((((..[[[[[[[)))))))).................]]]]]]]
+
+> HIV-1-RT-1-17
+agUAAUGACCAGAGGCCCAACUGGUAAACGGGCGGuc
+.......(((((..[[[[..)))))....]]]]....
+
+> PLRV-W
+GCGGCACCGCCCGCCAAAACAAACGG
+((((..[[[.)))).........]]]
+
+> SSTRAND_ID=PDB_00716; TYPE=Other Ribozyme; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=1SJF; ORGANISM=HOMO SAPIENS
+AUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACACCAUUGCACUCCGGUGGUGAAUGGGAC
+..(((((((...[[[[[[(((.{{.....))))))))))}}....((((..........)))).....]]]]]]
+
+> SSTRAND_ID=PDB_00944; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=2B57; ORGANISM=SYNTHETIC
+GACAUAUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGAUUAUGUC
+((((((.....(((((..[..[[)))))..........((((((]]...].))))))..))))))
+
+> SSTRAND_ID=PDB_01009; TYPE=Other RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=2DU3; ORGANISM=ARCHAEOGLOBUS FULGIDUS
+GCCAGGGUGGCAGAGGGGCUUUGCGGCGGACUGCAGAUCCGCUUUACCCCGGUUCGAAUCCGGGCCCUGGC
+((((((([.(((.].......)))..((((.......))))......(((((.......))))))))))))
+
+> SSTRAND_ID=PDB_01021; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=2EET; ORGANISM=SYNTHETIC
+GGACAUGUAAUCGCGUGGAUAUGGCACGCAAGUUUCUACCGGGCACCGUAAAUGUCCGACCAUGUCCa
+.((((((...(.(((((..[..[[))))).)........((((((]]...].))))))..))))))..
+
+> SSTRAND_ID=PDB_01023; TYPE=Synthetic RNA; EXT_SOURCE=RCSB Protein Data Bank; EXT_ID=2EEV; ORGANISM=SYNTHETIC
+GGACAUACAAUCGCGUGGAUAUGGCACGCAAGUUUCUGCCGGGCACCGUAAAUGUCCGACUAUGUCCa
+(((((((...(.(((((..[..[[))))).)........((((((]]...].))))))..))))))).
+
+> SSTRAND_ID=RFA_00632; TYPE=Hepatitis Delta Virus Ribozyme; EXT_SOURCE=Rfam Database; EXT_ID=RF00094 AB037947.1/775-685; ORGANISM=Hepatitis delta virus 
+GUGGCCGGCAUGGCCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACGAUCCGAGGGGACUGUCCCUCUCGAGAAUCGGCAAAUGGGGCCCC
+...[[[[[[...(((((((((........)))]]]]]].......(((((.(((((((...).))))))..).)))).....))))))...
+
+> SSTRAND_ID=RFA_00636; TYPE=Hepatitis Delta Virus Ribozyme; EXT_SOURCE=Rfam Database; EXT_ID=RF00094 M84917.1/773-684; ORGANISM=Hepatitis delta virus 
+GUGGCCGGCAUGGUCCCAGCCUCCUCGCUGGCGCCGGCUGGGCAACAUUCCGAGGGGACCGUCCUCCUCGGUAAUGGCGAAUGGGACCCA
+...[[[[[[...(((((((((........)))]]]]]].......(((((((((((((...).)))))))).)))).....))))))...
+
+> SSTRAND_ID=TMR_00007; TYPE=Transfer Messenger RNA; EXT_SOURCE=tmRNA Database; EXT_ID=Acid.caps._TRW-240015_1-352; ORGANISM=NULL
+CGGGGGGUGGGCACCCGUAAUCGCUCGCA
+[[[[..((((((.]]]].....)))))).
+
